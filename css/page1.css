@@ -1,0 +1,20 @@
+.conteiner{
+    width: 1920px;;
+}
+.logo{
+    float:left;
+    background-color: black;
+}
+.banner{
+    width:100%;
+}
+.toogle{
+    float:right;
+}
+.navigator{
+      background-color: transparent !important;
+      display:block;
+}
+.navigator-li{
+
+}
